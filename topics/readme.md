@@ -12,6 +12,6 @@ Slides:
 -   [Topic 07:](07.Topic7.JumpPart2.pdf) Implicit and advanced optimization models with JuMP
 -   [Topic 08:](08.Topic8.datastructuresPart2.pdf) tuples, dictionaries, sets, characters, strings
 -   [Topic 09:](09.Topic9.controlflowPart2.pdf) Control flow-part 3 (broadcast, multiple-dispatch)
--   [Topic 10:](10.Topic11.compositeStru.pdf) Special topics (random numbers, search and sort, plotting)
+-   [Topic 10:](10.Topic10.selectedTopics.pdf) Special topics (random numbers, search and sort, plotting)
 -   [Topic 11:](11.Topic11.compositeStru.pdf) Data structures (composite)
 -   [Topic 12:](12.Topic12.vOptSolver2023.pdf) Multi-objective optimisation models with JuMP and MOA
