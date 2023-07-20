@@ -2,7 +2,7 @@
 
 Slides:
 
--   [Intro:](00.Introduction.pdf) welcome to Julia programming language
+-   [Welcome:](00.Introduction.pdf) welcome to Julia programming language
 -   [Topic 01:](01.Topic1.ecosystem.pdf) Introduction, software environment, REPL, packages, working with Julia
 -   [Topic 02:](02.Topic2.basics.pdf) Values, variables, types, constants, print, input, comments, basic maths
 -   [Topic 03:](03.Topic3.controlflowPart1.pdf) Control flow-part 1: functions (single line, anonymous, general), usual functions
