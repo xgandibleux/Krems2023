@@ -1,6 +1,7 @@
 # Krems - Project TSP
 
 - `relief`: collection of asymetric TSP instances
+- `plat`: collection of symetric TSP instances
 - `parser.jl`: parser of TSP instances
 - `MTZ.jl`: model MTZ of TSP and resolution 
 - `DFJ.jl`: model DFJ of TSP and resolution
